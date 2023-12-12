@@ -35,12 +35,21 @@
   [[paper](https://arxiv.org/pdf/2303.12027.pdf)]<br>
   [[code](https://github.com/lizhou-cs/JointNLT)]
 
+- **ViPT:** Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu<br>
+  "Visual Prompt Multi-Modal Tracking" CVPR 2023<br>
+  [[paper](https://arxiv.org/abs/2303.10826)] <br>
+  [[code](https://github.com/jiawen-zhu/ViPT)]
+
 ### ICCV 2023
 
 - **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang<br>
   "CiteTracker: Correlating Image and Text for Visual Tracking" ICCV 2023<br>
   [[paper](https://arxiv.org/pdf/2308.11322.pdf)]<br>
-  [[code](https://github.com/NorahGreen/CiteTracker)] 
+  [[code](https://github.com/NorahGreen/CiteTracker)]
+
+- **DecoupleTNL:** Ding Ma, Xiangqian Wu<br>
+  "Tracking by Natural Language Specification with Long Short-term Context Decoupling" ICCV 2023<br>
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf)]
 
 ### NeurIPS 2023
 
