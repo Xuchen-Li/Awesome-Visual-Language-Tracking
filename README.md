@@ -73,6 +73,10 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10208210)] <br>
   [[code](https://github.com/Azong-HQU/MMTrack)]
 
+- **TransNLT:** Rong Wang, Zongheng Tang, Qianli Zhou, Xiaoqian Liu, Tianrui Hui, Quange Tan, Si Liu<br>
+  "Unified Transformer With Isomorphic Branches for Natural Language Tracking" TCSVT 2023<br>
+  [[paper](https://ieeexplore.ieee.org/document/10159158/)]
+
 ### PRL 2023 
 
 - **TransVLT:** Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan<br>
@@ -85,6 +89,10 @@
   "Divert More Attention to Vision-Language Object Tracking" arXiv 2023<br>
   [[paper](https://arxiv.org/pdf/2307.10046.pdf)]<br>
   [[code](https://github.com/JudasDie/SOTS)]
+
+- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
+  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" arXiv 2023<br>
+  [[paper](https://arxiv.org/abs/2311.17085)]
 
 ### NeuIPS 2022 
 
