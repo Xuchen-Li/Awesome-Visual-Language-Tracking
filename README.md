@@ -35,11 +35,6 @@
   [[paper](https://arxiv.org/pdf/2303.12027.pdf)]<br>
   [[code](https://github.com/lizhou-cs/JointNLT)]
 
-- **ViPT:** Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu<br>
-  "Visual Prompt Multi-Modal Tracking" CVPR 2023<br>
-  [[paper](https://arxiv.org/abs/2303.10826)] <br>
-  [[code](https://github.com/jiawen-zhu/ViPT)]
-
 ### ICCV 2023
 
 - **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang<br>
