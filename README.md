@@ -37,7 +37,7 @@
 
 ### ICCV 2023
 
-- **CiteTracker: ** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang<br>
+- **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang<br>
   "CiteTracker: Correlating Image and Text for Visual Tracking" ICCV 2023<br>
   [[paper](https://arxiv.org/pdf/2308.11322.pdf)]<br>
   [[code](https://github.com/NorahGreen/CiteTracker)] 
@@ -91,7 +91,7 @@
 
 ### CVPRW 2022
 
-- **CTRNLT: **Yihao L, Jun Yu, Zhongpeng Cai, Yuwen Pan<br>
+- **CTRNLT:** Yihao L, Jun Yu, Zhongpeng Cai, Yuwen Pan<br>
   "Cross-Modal Target Retrieval for Tracking by Natural Language" CVPRW 2022<br>
   [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)]
 
