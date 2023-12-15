@@ -77,8 +77,8 @@
 ### PRL 2023 
 
 - **TransVLT:** Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan<br>
-  [[paper](https://arxiv.org/pdf/2307.10046.pdf)]<br>
-  [[code](https://github.com/JudasDie/SOTS)]
+  "Transformer vision-language tracking via proxy token guided cross-modal fusion"<br>
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0167865523000545?via%3Dihub)]
 
 - **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
   "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" arXiv 2023<br>
