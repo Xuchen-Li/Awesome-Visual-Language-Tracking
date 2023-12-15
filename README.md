@@ -14,7 +14,7 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-023-01908-5)]<br>
   [[platform](http://metaverse.aitestunion.com/)]
   
-- **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang.<br>
+- **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang<br>
   "Global Instance Tracking: Locating Target More Like Humans" TPAMI 2023<br>
   [[paper](https://arxiv.org/pdf/2202.13073.pdf)] <br>
   [[platform](http://videocube.aitestunion.com/)]
