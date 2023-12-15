@@ -20,9 +20,6 @@
   [[platform](http://videocube.aitestunion.com/)]
 
 ### AAAI 2024
-
-- **BiAdapter:**  <br>
-  "Bi-directional Adapter for Multimodal Tracking" AAAI 2024
   
 - **UVLTrack:** <br>
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning" AAAI 2024<br>
