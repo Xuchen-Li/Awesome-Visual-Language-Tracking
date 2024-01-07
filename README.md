@@ -19,11 +19,13 @@
   [[paper](https://arxiv.org/pdf/2202.13073.pdf)] <br>
   [[platform](http://videocube.aitestunion.com/)]
 
+
 ### AAAI 2024
   
 - **UVLTrack:** <br>
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning" AAAI 2024<br>
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
+
 
 ### CVPR 2023
 
@@ -31,6 +33,7 @@
   "Joint Visual Grounding and Tracking with Natural Language Specification" CVPR 2023 <br>
   [[paper](https://arxiv.org/pdf/2303.12027.pdf)]<br>
   [[code](https://github.com/lizhou-cs/JointNLT)]
+
 
 ### ICCV 2023
 
@@ -43,12 +46,14 @@
   "Tracking by Natural Language Specification with Long Short-term Context Decoupling" ICCV 2023<br>
   [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf)]
 
+
 ### NeurIPS 2023
 
 - **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang<br>
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and causal Relationship" NeurIPS 2023<br>
   [[paper](https://huuuuusy.github.io/files/MGIT.pdf)]<br>
   [[platform](http://videocube.aitestunion.com/)]
+
 
 ### ACM MM 2023
 
@@ -57,11 +62,13 @@
   [[paper](https://arxiv.org/pdf/2307.03373.pdf)] <br>
   [[code](https://github.com/983632847/All-in-One)]
 
+
 ### TMM 2023 
 
 - **OVLM:** Huanlong Zhang, Jingchao Wang, Jianwei Zhang, Tianzhu Zhang, Bineng Zhong <br>
   "One-stream Vision-Language Memory Network for Object Tracking" TMM 2023<br>
    [[paper](https://ieeexplore.ieee.org/abstract/document/10149530)]
+
 
 ### TCSVT 2023
 
@@ -74,6 +81,7 @@
   "Unified Transformer With Isomorphic Branches for Natural Language Tracking" TCSVT 2023<br>
   [[paper](https://ieeexplore.ieee.org/document/10159158/)]
 
+
 ### PRL 2023 
 
 - **TransVLT:** Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan<br>
@@ -84,11 +92,13 @@
   "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" arXiv 2023<br>
   [[paper](https://arxiv.org/abs/2311.17085)]
 
+
 ### arXiv 2023
 - **VLT_OST:** Mingzhe Guo, Zhipeng Zhang, Liping Jing , Haibin Ling, Heng Fan<br>
   "Divert More Attention to Vision-Language Object Tracking" arXiv 2023<br>
   [[paper](https://arxiv.org/pdf/2307.10046.pdf)]<br>
   [[code](https://github.com/JudasDie/SOTS)]
+
 
 ### NeuIPS 2022 
 
@@ -97,10 +107,12 @@
   [[paper](https://arxiv.org/abs/2207.01076)] <br>
   [[code](https://github.com/JudasDie/SOTS)]
 
+
 ### CVPRW 2022
 - **CTRNLT:** Yihao L, Jun Yu, Zhongpeng Cai, Yuwen Pan<br>
   "Cross-Modal Target Retrieval for Tracking by Natural Language" CVPRW 2022<br>
   [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)]
+
 
 ### CVPR 2021
 
@@ -114,11 +126,13 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.pdf)]<br>
   [[platform](https://sites.google.com/view/langtrackbenchmark/)]
 
+
 ### ACM MM 2021
 
 - **CapsuleTNL:** Ding Ma, Xiangqian Wu<br>
   "Capsule-based Object Tracking with Natural Language Specification" ACM MM 2021<br>
   [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475349)] 
+
 
 ### TCSVT 2021
 
@@ -126,21 +140,25 @@
   "Grounding-tracking-integration" TCSVT 2021<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/9261416/)]
 
+
 ### WACV 2020
 - **RTTNLD:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Guorong Li, Stan Sclaroff<br>
   "Real-time Visual Object Tracking with Natural Language Description" WACV 2020<br>
   [[paper](https://arxiv.org/abs/1907.11751)]
 
+
 ### arXiv 2019
 - **NLRPN:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff<br>
   "Robust visual object tracking with natural language region proposal network" arXiv 2019<br>
   [[paper](https://arxiv.org/abs/1912.02048v1)]
-  
+
+
 ### arXiv 2018
 - **DAT:** Xiao Wang, Chenglong Li, Rui Yang, Tianzhu Zhang, Jin Tang, Bin Luo<br>
   "Describe and attend to track: Learning natural language guided structural representation and visual attention for object tracking" arXiv 2018<br>
   [[paper](https://arxiv.org/pdf/1811.10014)]
-  
+
+
 ### CVPR 2017
 
 - **TNLS:** Li, Zhenyang and Tao, Ran and Gavves, Efstratios, Snoek, Cees G. M., Smeulders, Arnold W. M.<br>
