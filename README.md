@@ -104,7 +104,7 @@
 
 
 ### CVPRW 2022
-- **CTRNLT:** Yihao L, Jun Yu, Zhongpeng Cai, Yuwen Pan<br>
+- **CTRTNL:** Yihao L, Jun Yu, Zhongpeng Cai, Yuwen Pan<br>
   "Cross-Modal Target Retrieval for Tracking by Natural Language" CVPRW 2022<br>
   [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)]
 
