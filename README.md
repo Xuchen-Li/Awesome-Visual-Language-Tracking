@@ -20,6 +20,14 @@
   [[platform](http://videocube.aitestunion.com/)]
 
 
+### AAAI 2024
+
+- **UVLTrack:** <br>
+  "Unifying Visual and Vision-Language Tracking via Contrastive Learning" AAAI 2024<br>
+  [[paper](https://arxiv.org/pdf/2401.11228.pdf)] <br>
+  [[code](https://github.com/OpenSpaceAI/UVLTrack)]
+
+
 ### CVPR 2023
 
 - **JointNLT:** Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He<br>
