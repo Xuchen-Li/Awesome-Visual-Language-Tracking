@@ -10,6 +10,13 @@
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 
+### ArXiv 2024
+
+- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
+  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" arXiv 2024<br>
+  [[paper](https://arxiv.org/pdf/2311.17085.pdf)]
+
+  
 ### CVPR 2023
 
 - **JointNLT:** Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He<br>
@@ -63,12 +70,8 @@
 ### PRL 2023 
 
 - **TransVLT:** Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan<br>
-  "Transformer vision-language tracking via proxy token guided cross-modal fusion"<br>
+  "Transformer vision-language tracking via proxy token guided cross-modal fusion" PRL 2023<br>
   [[paper](https://www.sciencedirect.com/science/article/pii/S0167865523000545?via%3Dihub)]
-
-- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
-  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" arXiv 2023<br>
-  [[paper](https://arxiv.org/pdf/2311.17085.pdf)]
 
 
 ### arXiv 2023
