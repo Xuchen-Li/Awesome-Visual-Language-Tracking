@@ -13,7 +13,7 @@
 ### ArXiv 2024
 
 - **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
-  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" arXiv 2024<br>
+  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" ArXiv 2024<br>
   [[paper](https://arxiv.org/pdf/2311.17085.pdf)]
 
   
@@ -74,9 +74,9 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0167865523000545?via%3Dihub)]
 
 
-### arXiv 2023
+### ArXiv 2023
 - **VLT_OST:** Mingzhe Guo, Zhipeng Zhang, Liping Jing , Haibin Ling, Heng Fan<br>
-  "Divert More Attention to Vision-Language Object Tracking" arXiv 2023<br>
+  "Divert More Attention to Vision-Language Object Tracking" ArXiv 2023<br>
   [[paper](https://arxiv.org/pdf/2307.10046.pdf)]<br>
   [[code](https://github.com/JudasDie/SOTS)]
 
@@ -128,15 +128,15 @@
   [[paper](https://arxiv.org/pdf/1907.11751.pdf)]
 
 
-### arXiv 2019
+### ArXiv 2019
 - **NLRPN:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff<br>
-  "Robust Visual Object Tracking with Natural Language Region Proposal Network" arXiv 2019<br>
+  "Robust Visual Object Tracking with Natural Language Region Proposal Network" ArXiv 2019<br>
   [[paper](https://arxiv.org/pdf/1912.02048v1.pdf)]
 
 
-### arXiv 2018
+### ArXiv 2018
 - **DAT:** Xiao Wang, Chenglong Li, Rui Yang, Tianzhu Zhang, Jin Tang, Bin Luo<br>
-  "Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking" arXiv 2018<br>
+  "Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking" ArXiv 2018<br>
   [[paper](https://arxiv.org/pdf/1811.10014.pdf)]
 
 
