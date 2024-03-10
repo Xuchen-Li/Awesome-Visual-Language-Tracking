@@ -2,9 +2,14 @@
 
 ## Papers
 
+### CVPR 2024
+
+- **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen<br>
+  "Context-Aware Integration of Language and Visual References for Natural Language Tracking" CVPR 2024
+
 ### AAAI 2024
 
-- **UVLTrack:** <br>
+- **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang<br>
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning" AAAI 2024<br>
   [[paper](https://arxiv.org/pdf/2401.11228.pdf)] <br>
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
