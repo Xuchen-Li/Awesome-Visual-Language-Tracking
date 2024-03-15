@@ -4,6 +4,10 @@
 
 ### CVPR 2024
 
+- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024<br>
+  [[paper](https://arxiv.org/abs/2403.09634)]
+
 - **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen<br>
   "Context-Aware Integration of Language and Visual References for Natural Language Tracking" CVPR 2024
 
