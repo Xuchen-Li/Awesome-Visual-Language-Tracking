@@ -11,8 +11,6 @@
 - **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen<br>
   "Context-Aware Integration of Language and Visual References for Natural Language Tracking" CVPR 2024
 
-- **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu<br>
-  "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking" CVPR 2024
 
 ### AAAI 2024
 
