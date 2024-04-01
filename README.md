@@ -8,8 +8,10 @@
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024<br>
   [[paper](https://arxiv.org/abs/2403.09634)]
 
-- **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen<br>
-  "Context-Aware Integration of Language and Visual References for Natural Language Tracking" CVPR 2024
+- **QueryNLT:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen<br>
+  "Context-Aware Integration of Language and Visual References for Natural Language Tracking" CVPR 2024<br>
+  [[paper](https://arxiv.org/abs/2403.19975)] <br>
+  [[code](https://github.com/twotwo2/QueryNLT)]
 
 
 ### AAAI 2024
