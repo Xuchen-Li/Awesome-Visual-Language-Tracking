@@ -22,6 +22,13 @@
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 
+### TCSVT 2024
+
+- **OSDT:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Ning Li, Shuxiang Song<br>
+  "One-Stream Stepwise Decreasing for Vision-Language Tracking" TCSVT 2024<br>
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10510485)]
+
+
 ### ArXiv 2024
 
 - **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
