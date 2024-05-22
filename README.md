@@ -22,6 +22,12 @@
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 
+### IJCAI 2024
+
+- **:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song<br>
+  "Diffusion Mask-Driven Visual-language Tracking" IJCAI 2024<br>
+
+
 ### TCSVT 2024
 
 - **OSDT:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Ning Li, Shuxiang Song<br>
