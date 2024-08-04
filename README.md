@@ -36,6 +36,13 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10510485)]
 
 
+### CVPRW 2024
+
+- **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang<br>
+  "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM" CVPRW 2024<br>
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024W/VDU/papers/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.pdf)]
+
+
 ### ArXiv 2024
 
 - **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
