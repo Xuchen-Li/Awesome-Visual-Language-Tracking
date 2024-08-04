@@ -24,8 +24,9 @@
 
 ### IJCAI 2024
 
-- **:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song<br>
+- **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song<br>
   "Diffusion Mask-Driven Visual-language Tracking" IJCAI 2024<br>
+  [[paper](https://www.ijcai.org/proceedings/2024/0183.pdf)]
 
 
 ### TCSVT 2024
