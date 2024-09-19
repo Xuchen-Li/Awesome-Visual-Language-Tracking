@@ -6,12 +6,20 @@
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning" CVPR 2024<br>
-  [[paper](https://arxiv.org/abs/2403.09634)]
+  [[paper](https://arxiv.org/pdf/2403.09634.pdf)]
 
 - **QueryNLT:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen<br>
   "Context-Aware Integration of Language and Visual References for Natural Language Tracking" CVPR 2024<br>
-  [[paper](https://arxiv.org/abs/2403.19975)] <br>
+  [[paper](https://arxiv.org/pdf/2403.19975.pdf)] <br>
   [[code](https://github.com/twotwo2/QueryNLT)]
+
+
+### ECCV 2024
+
+- **Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang<br>
+  "Elysium: Exploring Object-level Perception in Videos via MLLM" ECCV 2024<br>
+  [[paper](https://arxiv.org/pdf/2403.16558.pdf)] <br>
+  [[code](https://github.com/Hon-Wong/Elysium)]
 
 
 ### AAAI 2024
@@ -21,11 +29,13 @@
   [[paper](https://arxiv.org/pdf/2401.11228.pdf)] <br>
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
+
 ### ACM MM 2024
 
 - **SS-VLT:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu<br>
   "Consistencies are All You Need for Semi-supervised Vision-Language Tracking" ACM MM 2024<br>
   [[paper](https://openreview.net/pdf?id=jLJ3htNxVX)]
+
   
 ### IJCAI 2024
 
@@ -40,6 +50,13 @@
   "One-Stream Stepwise Decreasing for Vision-Language Tracking" TCSVT 2024<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10510485)]
 
+
+### ICASSP 2024
+
+- **TTCTrack:** Zhongjie Mao, Yucheng Wang, Xi Chen, Jia Yan<br>
+  "Textual Tokens Classification for Multi-Modal Alignment in Vision-Language Tracking" ICASSP 2024<br>
+  [[paper](https://ieeexplore.ieee.org/document/10446122)]
+  
 
 ### CVPRW 2024
 
