@@ -21,7 +21,12 @@
   [[paper](https://arxiv.org/pdf/2401.11228.pdf)] <br>
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
+### ACM MM 2024
 
+- **SS-VLT:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu<br>
+  "Consistencies are All You Need for Semi-supervised Vision-Language Tracking" ACM MM 2024<br>
+  [[paper](https://openreview.net/pdf?id=jLJ3htNxVX)]
+  
 ### IJCAI 2024
 
 - **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song<br>
@@ -48,6 +53,10 @@
 - **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu<br>
   "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking" ArXiv 2024<br>
   [[paper](https://arxiv.org/pdf/2311.17085.pdf)]
+
+- **VLT-MI:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
+  "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark" ArXiv 2024<br>
+  [[paper](https://arxiv.org/pdf/2409.08887.pdf)]
 
   
 ### CVPR 2023
