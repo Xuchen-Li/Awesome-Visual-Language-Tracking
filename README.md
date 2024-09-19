@@ -32,7 +32,7 @@
 
 ### ACM MM 2024
 
-- **SS-VLT:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu<br>
+- **ATTrack:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu<br>
   "Consistencies are All You Need for Semi-supervised Vision-Language Tracking" ACM MM 2024<br>
   [[paper](https://openreview.net/pdf?id=jLJ3htNxVX)]
 
