@@ -2,6 +2,12 @@
 
 ## Papers
 
+### NeurIPS 2024
+
+- **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
+  "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts" NeurIPS 2024
+
+
 ### CVPR 2024
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
