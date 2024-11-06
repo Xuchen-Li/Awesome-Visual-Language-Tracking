@@ -11,6 +11,15 @@
   "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model" NeurIPS 2024<br>
   [[paper](https://arxiv.org/abs/2411.01756)]
   
+- **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang<br>
+  "VastTrack: Vast Category Visual Object Tracking" NeurIPS 2024<br>
+  [[paper](https://arxiv.org/abs/2403.03493)]
+  [[platform](https://github.com/HengLan/VastTrack)]
+  
+- **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang<br>
+  "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark" NeurIPS 2024<br>
+  [[paper](https://arxiv.org/abs/2405.19818)]
+  [[platform](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)]
   
 ### CVPR 2024
 
