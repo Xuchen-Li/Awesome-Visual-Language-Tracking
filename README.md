@@ -7,7 +7,11 @@
 - **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
   "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts" NeurIPS 2024
 
-
+- **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang<br>
+  "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model" NeurIPS 2024<br>
+  [[paper](https://arxiv.org/abs/2411.01756)]
+  
+  
 ### CVPR 2024
 
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang<br>
@@ -26,6 +30,11 @@
   "Elysium: Exploring Object-level Perception in Videos via MLLM" ECCV 2024<br>
   [[paper](https://arxiv.org/pdf/2403.16558.pdf)] <br>
   [[code](https://github.com/Hon-Wong/Elysium)]
+  
+- **SemTrack:** Wang, Pengfei and Hui, Xiaofei and Wu, Jing and Yang, Zile and Ong, Kian Eng and Zhao, Xinge and Lu, Beijia and Huang, Dezhao and Ling, Evan and Chen, Weiling and Ma, Keng Teck and Hur, Minhoe and Liu, Jun<br>
+  "SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild" ECCV 2024<br>
+  [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)] <br>
+  [[platform](https://sutdcv.github.io/SemTrack/)]
 
 
 ### AAAI 2024
