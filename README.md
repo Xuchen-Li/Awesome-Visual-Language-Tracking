@@ -97,7 +97,13 @@
 
 - **VLT-MI:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
   "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark" ArXiv 2024<br>
-  [[paper](https://arxiv.org/pdf/2409.08887.pdf)]
+  [[paper](https://arxiv.org/pdf/2409.08887.pdf)]<br>
+  [[platform](http://videocube.aitestunion.com/)]
+  
+- **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang<br>
+  "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2" ArXiv 2024<br>
+  [[paper](https://arxiv.org/abs/2409.16902)]<br>
+  [[platform](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
   
 ### CVPR 2023
