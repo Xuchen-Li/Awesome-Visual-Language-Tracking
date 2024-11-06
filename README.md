@@ -184,6 +184,14 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)]
 
 
+### IJCV 2021
+
+- **LaSOT_EXT:** Heng Fan, Hexin Bai, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Harshit, Mingzhen Huang, Juehuan Liu, Yong Xu, Chunyuan Liao, Lin Yuan, Haibin Ling<br>
+  "LaSOT: A High-quality Large-scale Single Object Tracking Benchmark" IJCV 2021<br>
+  [[paper](https://arxiv.org/abs/2009.03465)]<br>
+  [[platform](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)]
+
+
 ### CVPR 2021
 
 - **SNLT:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff<br>
@@ -215,6 +223,13 @@
 - **RTTNLD:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Guorong Li, Stan Sclaroff<br>
   "Real-time Visual Object Tracking with Natural Language Description" WACV 2020<br>
   [[paper](https://arxiv.org/pdf/1907.11751.pdf)]
+
+
+### CVPR 2019
+- **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling<br>
+  "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking" CVPR 2019<br>
+  [[paper](https://arxiv.org/abs/1809.07845)]<br>
+  [[platform](http://vision.cs.stonybrook.edu/~lasot/)]
 
 
 ### ArXiv 2019
